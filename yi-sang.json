@@ -1,0 +1,37 @@
+{
+	"name": "Yi Sang",
+	"description": "",
+	"authors": [
+		{ "name": "Evans Goethe", "id": "0" }
+	],
+	"semanticColors": {
+		"BACKGROUND_BASE_LOWEST": ["#0b120f"],
+		"BACKGROUND_BRAND": ["#19ab72", "#c8dcd2", "#0cc97f"],
+		"BACKGROUND_FEEDBACK_NOTIFICATION": ["", "", "#ff0000"],
+		"BACKGROUND_MOD_STRONG": ["", "", "#97979f"],
+		"BORDER_SUBTLE": ["", "", "#0b120f"],
+		"CARD_MUTED_BG": ["", "", "#12211b"],
+		"CHANNEL_BACKGROUND_DEFAULT": ["#19ab72", "", "#0b130f"],
+		"CHANNEL_ICON": ["", "", "#c8dcd2"],
+		"CONTROL_PRIMARY_BACKGROUND_DEFAULT": ["", "", "#19ab72"],
+		"MENTION_FOREGROUND": ["", "", "#4cd49f"],
+		"MOBILE_ACTIONSHEET_BACKGROUND": ["", "", "#0b120f"],
+		"MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": ["", "", "#19ab72"],
+		"MOBILE_GUILDBAR_ICON_DEFAULT": ["", "", "#c8dcd2"],
+		"MOBILE_TOAST_BACKGROUND_DEFAULT": ["", "", "#0b120f"],
+		"PANEL_BG": ["", "", "#0b120f"],
+		"REDESIGN_CHANNEL_NAME_MUTED_TEXT": ["", "", "#b8d3c5"],
+		"REDESIGN_CHANNEL_NAME_TEXT": ["", "", "#c8dcd2"],
+		"SWITCH_BACKGROUND_SELECTED_DEFAULT": ["", "", "#19ab72"],
+		"TABLEROW_ICON_COLOR_DEFAULT": ["", "", "#4cd49f"],
+		"TEXT_BRAND": ["", "", "#19ab72"],
+		"TEXT_DEFAULT": ["", "", "#c8dcd2"],
+		"TEXT_MUTED": ["", "", "#c8dcd2"],
+		"TEXT_STRONG": ["", "", "#c8dcd2"],
+		"WHITE": ["", "", "#c8dcd2"]
+	},
+	"rawColors": {
+		"BLUE_NEW_45": "#19ab72"
+	},
+	"spec": 2
+}
